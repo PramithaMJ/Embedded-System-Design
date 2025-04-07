@@ -196,6 +196,7 @@ To become an expert, you **must learn how to read the datasheet**:
 
 This markdown file gives you everything from setting up simple I/O, writing your first LED blink program, to working with external interrupts. Embedded systems may seem tricky at first, but when broken down clearly, they're fun and powerful.
 
-Share this file on GitHub to help others starting their embedded journey with ATmega328P and Atmel Studio!
+## Reference
+https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
 ---
