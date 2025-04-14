@@ -80,7 +80,6 @@ while (!(UCSR0A & (1 << UDRE0))) {
 ```c
 UDR0 = data; // Load data into buffer, sends the data
 ```
-
 ---
 
 ### USART Reception and Transmission
